@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Altarix</string>
+
+
+
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+    <string name="priority_4">4</string>
+
+
+    <string name="edit_task_description">Описание&#8230;</string>
+    <string name="edit_task_title">Заголовок&#8230;</string>
+    <string name="priority_string">Важность</string>
+
+    <string name="high">Очень важно</string>
+    <string name="medium">Средне</string>
+    <string name="low">Низко</string>
+    <string name="not">Не важно</string>
+
+    <string name="action_new">Добавить</string>
+
+
+    <string name="add_button">Добавить</string>
+    <string name="update_button">Обновить</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
